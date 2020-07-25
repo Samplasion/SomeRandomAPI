@@ -37,7 +37,7 @@ const { api } = require("sra-wrapper");
 const { writeFileSync } = require("fs");
 
 // `/img/dog` translates to `api.img.dog()`
-api.other.youtubeComment({
+api.canvas.youtubeComment({
     avatar: "https://cdn.discordapp.com/avatars/280399026749440000/ed7c437fbce145a31581f0b8796e70d9.png?size=1024",
     comment: "This is a YouTube comment",
     username: "Samplasion"
