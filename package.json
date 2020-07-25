@@ -1,6 +1,6 @@
 {
   "name": "sra-wrapper",
-  "version": "1.0.0-3",
+  "version": "1.0.0-4",
   "description": "An unofficial wrapper around Some Random API",
   "main": "index.js",
   "scripts": {
