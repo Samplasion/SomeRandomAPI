@@ -1,8 +1,8 @@
 {
   "name": "sra-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.0-1",
   "description": "An unofficial wrapper around Some Random API",
-  "main": "dist/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "tsc && node test/index.js",
     "pub": "tsc && npm publish"
